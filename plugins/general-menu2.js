@@ -62,7 +62,7 @@ const defaultMenu = {
 │ • Version: %version
 │ • Prefix Used: *[ %p ]*
 │ • Database: %rtotalreg dari %totalreg 
-│ • Memory Used: ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB
+│ • Memory Used: ${(process.memoryUsage().heapUsed / 60000057 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 60000057 / 1024)}MB
 │ • Publik Apikey: https://botcahx.ddns.net
 ╰────
 ╭─ 「 *USER INFO* 」
