@@ -10,9 +10,9 @@
 //Link Plugins (https://github.com/BOTCAHX/RTXZY-MD/blob/v3.0/plugins/info-creator.js)
 
 //Global Owner//
-global.owner = ['6281395861695']  // isi jika perlu
-global.mods = ['6281395861695']   // isi jika perlu
-global.prems = ['6281395861695']  // isi jika perlu
+global.owner = ['6285706735450']  // isi jika perlu
+global.mods = ['6285706735450']   // isi jika perlu
+global.prems = ['6285706735450']  // isi jika perlu
 
 //Nomor Owner & payment//
 global.nameowner = 'verdizxz' // isi nama kalian bebas
